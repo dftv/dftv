@@ -33,6 +33,7 @@
   <a href="https://soundcloud.com/df-box-tv"><img height="25em" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"></a>
   <a href="https://www.twitch.tv/df_7v"><img height="25em" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCr-RBer3TD3uoqGoviCC-_Q"><img height="25em" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/daniel-ribeiro-torquato-filho-5380a021b/"><img height="25em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
   
 <!---
