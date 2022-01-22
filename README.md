@@ -30,6 +30,7 @@
   
 <div>
   <a href="https://gamejolt.com/@DF_Tv"><img height="25em" src="https://img.shields.io/badge/-Game%20Jolt-%232e7f6e"></a>
+  <a href="https://df-tv.itch.io/"><img height="25em" src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"></a>
   <a href="https://www.instagram.com/df_7v/"><img height="25em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://soundcloud.com/df-box-tv"><img height="25em" src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"></a>
   <a href="https://www.twitch.tv/df_7v"><img height="25em" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
