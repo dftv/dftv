@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D9C5B8&size=28&vCenter=true&width=500&lines=Opa+b%C3%A3o%3F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FAFAFA&size=28&vCenter=true&width=500&lines=Opa+b%C3%A3o%3F)](https://git.io/typing-svg)
 > Hello everything is fine?
 
   
