@@ -20,4 +20,4 @@ Sou Daniel Ribeiro Torquato Filho, um desenvolvedor versátil e entusiasta de te
 - Godot, Unity
 
 ## Links
-LinkedIn: [Daniel Ribeiro Torquato Filho](https://www.linkedin.com/in/daniel-ribeiro-torquato-filho/)
+LinkedIn: [Daniel Ribeiro Torquato Filho](https://www.linkedin.com/in/df-danielfilho/)
