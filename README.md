@@ -8,11 +8,11 @@ Sou Daniel Ribeiro Torquato Filho, um desenvolvedor versátil e entusiasta de te
 ## 💻 Tecnologias
 > 💻 Technologies
 
-- JavaScript, TypeScript, Dart, HTML, CSS, C#, C++, PHP, Node.js, Python, SQL, NoSQL
+- JavaScript, TypeScript, Dart, HTML, CSS, C#, C++, PHP, Node.js, Python, SQL, NoSQL, Kotlin, Java
 
 ## ⚙️ Frameworks
 
-- Flutter, React, React Native, Angular, Angular.js, Express, CodeIgniter, Laravel, ASP.NET CORE, MySql
+- Flutter, React, React Native, Angular, Angular.js, Express, CodeIgniter, Laravel, ASP.NET CORE, MySQL, MongoDB, SQLite
 
 ## 🕹️ Motores gráficos
 > 🕹️ Game engines
