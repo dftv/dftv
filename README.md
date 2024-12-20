@@ -9,7 +9,7 @@ I'm Daniel Ribeiro Torquato Filho, a versatile developer and technology enthusia
 ## 💻 Technologies
 > 💻 Tecnologias
 
-- JavaScript, TypeScript, Dart, HTML, CSS, C#, Julia, PHP, Python, SQL, NoSQL, Kotlin, R
+- JavaScript, TypeScript, Dart, HTML, CSS, C#, Julia, PHP, Python, SQL, NoSQL, Kotlin, Java, R
 
 ## ⚙️ Frameworks
 
