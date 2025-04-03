@@ -6,8 +6,8 @@ I'm Daniel Ribeiro Torquato Filho, a versatile developer and technology enthusia
 >
 > Sou Daniel Ribeiro Torquato Filho, um desenvolvedor versátil e entusiasta de tecnologia. Minha jornada no desenvolvimento de software tem sido guiada por uma constante busca por melhorias práticas e teóricas. Minha facilidade de aprendizado e adaptabilidade me permitem enfrentar desafios diversos, garantindo soluções inovadoras e funcionais.
 
-## 💻 Technologies
-> 💻 Tecnologias
+## 💻 Main Languages
+> 💻 Principais linguagens
 
 - Python,
 Julia,
@@ -24,7 +24,8 @@ TypeScript,
 HTML,
 CSS
 
-## ⚙️ Frameworks
+## ⚙️ Some Frameworks and Technologies
+> ⚙️ Algumas Frameworks e Tecnologias
 
 - Flutter,
 React,
